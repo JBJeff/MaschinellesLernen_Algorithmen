@@ -2,7 +2,7 @@
 Studium Ausarbeitungsprojekt
 
 Erläuterung des Projekts finden Sie in der BDA_Ausarbeitung_Böttcher.pdf ab Seite 8.
-.md Dokumentation folgt
+
 Aktienkurs-Vorhersage mit Linearer Regression
 
 Dieses Projekt verwendet historische Aktienkurse und eine lineare Regression, um zukünftige Kursbewegungen vorherzusagen. Die Daten werden über die Yahoo Finance API geladen, und das Modell verwendet eine lineare Regression zur Vorhersage des zukünftigen Preises einer Aktie, basierend auf den letzten 60 Tagen.
